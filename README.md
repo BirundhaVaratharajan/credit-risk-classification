@@ -47,6 +47,7 @@ Classification report for logistic regression model
 
     accuracy                           0.99     19384
    macro avg       0.92      0.95      0.94     19384
+   
 weighted avg       0.99      0.99      0.99     19384
 
 
@@ -60,8 +61,8 @@ Balanced accuracy score for resampled data
 0.9936781215845847
 
 Confusion matrix for resampled data
- [[18649   116]
- [    4   615]]
+ 18649   116
+ 4      615
 
 Classification report for resampled datal
                precision    recall  f1-score   support
@@ -71,6 +72,7 @@ Classification report for resampled datal
 
     accuracy                           0.99     19384
    macro avg       0.92      0.99      0.95     19384
+   
 weighted avg       0.99      0.99      0.99     19384
 
 
